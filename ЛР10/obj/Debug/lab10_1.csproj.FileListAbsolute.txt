@@ -1,0 +1,12 @@
+C:\Users\nypzl\source\repos\lab10_1\bin\Debug\lab10_1.exe.config
+C:\Users\nypzl\source\repos\lab10_1\bin\Debug\lab10_1.exe
+C:\Users\nypzl\source\repos\lab10_1\bin\Debug\lab10_1.pdb
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.csproj.AssemblyReference.cache
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.Form1.resources
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.Properties.Resources.resources
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.csproj.GenerateResource.cache
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.csproj.CoreCompileInputs.cache
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.exe
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.pdb
+C:\Users\nypzl\source\repos\lab10_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nypzl\source\repos\lab10_1\obj\Debug\lab10_1.csproj.Up2Date
